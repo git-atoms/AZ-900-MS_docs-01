@@ -13,7 +13,15 @@ Self-learning from Microsoft docs materials
 <br>
 
 * Wprowadzenie
+>Platforma Azure oferuje wiele usług opartych na chmurze, takich jak magazyn zdalny, hosting baz danych i scentralizowane zarządzanie kontami. Platforma Azure oferuje również nowe funkcje, takie jak sztuczna inteligencja i Internet rzeczy (IoT).
+
+<br>
+
 * Co to jest przetwarzanie w chmurze?
+>Przetwarzanie w chmurze - to dostarczanie usług obliczeniowych przez internet (chmurę).
+
+<br>
+
 * Czym jest platforma Azure?
 * Przewodnik po usługach platformy Azure
 * Wprowadzenie do kont usługi Azure
@@ -32,4 +40,4 @@ Self-learning from Microsoft docs materials
 *
 
 
-Platforma Azure oferuje wiele usług opartych na chmurze
+>Przetwarzanie w chmurze - to dostarczanie usług obliczeniowych przez internet (chmurę).
