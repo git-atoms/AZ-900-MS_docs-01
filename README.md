@@ -17,6 +17,10 @@ Self-learning from Microsoft docs materials
 
 <br>
 
+[Tutaj tematy](https://github.com/git-atoms/AZ-900-MS_docs-01/blob/main/Screeny/Waga%20pyta%C5%84%20na%20egzaminie%20AZ-900.jpg) występujące na egzaminie AZ-900 i ich wagi.
+
+<br>
+
 * Co to jest przetwarzanie w chmurze?
 >Przetwarzanie w chmurze - to dostarczanie usług obliczeniowych przez internet (chmurę).
 
