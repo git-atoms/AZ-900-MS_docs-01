@@ -27,6 +27,13 @@ Self-learning from Microsoft docs materials
 <br>
 
 * Czym jest platforma Azure?
+
+<br>
+
+
+
+<br>
+
 * Przewodnik po usługach platformy Azure
 * Wprowadzenie do kont usługi Azure
 * Wprowadzenie do analizy przypadku
